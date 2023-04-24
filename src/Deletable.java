@@ -1,0 +1,2 @@
+public class Deletable {
+}
