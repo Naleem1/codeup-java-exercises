@@ -1,2 +1,3 @@
-public class Deletable {
+public interface Deletable {
+    String delete();
 }
